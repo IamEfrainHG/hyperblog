@@ -1,3 +1,5 @@
 Este es una segunda prueba para Git y entender mejor su funcionamiento.
 
-Vamos a hacer lo que Freddy hace en la clase..
+Vamos a hacer los comandos de la clase..
+
+Freddy dice que tiene 33 años y nacio en Colombia.
