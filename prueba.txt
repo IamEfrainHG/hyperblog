@@ -3,3 +3,5 @@ Este es una segunda prueba para Git y entender mejor su funcionamiento.
 Vamos a hacer los comandos de la clase..
 
 Freddy dice que tiene 33 años y nacio en Colombia.
+
+Hoy es el CEO de Platzi y me motiva a aprender más!!
